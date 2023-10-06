@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jakarta.ee/xml/ns/jakartaee" xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_6_0.xsd" id="WebApp_ID" version="6.0">
+  
+<!--   <servlet>
+  	<servlet-name>abc</servlet-name>
+  	<servlet-class>com.rekildo.AddServlet</servlet-class>
+  	
+  	<init-param>
+  		<param-name>name</param-name>
+		<param-value>Messi10</param-value>
+  	</init-param>
+  	
+  </servlet>
+  
+  <servlet-mapping>
+  	<servlet-name>abc</servlet-name>
+  	<url-pattern>/add</url-pattern>
+  </servlet-mapping>
+  
+  
+    <servlet>
+  	<servlet-name>qer</servlet-name>
+  	<servlet-class>com.rekildo.SqServlet</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  	<servlet-name>qer</servlet-name>
+  	<url-pattern>/jesus</url-pattern>
+  </servlet-mapping>
+  
+  -->
+ 
+ <context-param>
+ 	<param-name>name</param-name>
+ 	<param-value>rekildo</param-value>
+ </context-param>
+ 
+  <context-param>
+ 	<param-name>phone</param-name>
+ 	<param-value>PocoF1</param-value>
+ </context-param>
+ 
+ 
+ 
+</web-app>
